@@ -22,7 +22,7 @@
   <img align="center" alt="eidisato-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="eidisato-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="eidisato-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="eidisato-pic" height="150" style="border-radius:50px;" src="https://discordapp.com/channels/757825285021237339/757826115212673077/936001006309883914">
+  <img align="right" alt="eidisato-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/757826115212673077/936001006075015168/zoro.gif">
 </div>
   
   ##
