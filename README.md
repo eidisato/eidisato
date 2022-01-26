@@ -1,7 +1,5 @@
 ### Hello World 👋!
 
-##
-  <img align="right" alt="eidisato-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/757826115212673077/936001006075015168/zoro.gif">
 - 📫 How to reach me: contato.viniciuseidisato@gmail.com
 - 😄 Pronouns: Ele/He
 - ⚡ Fun fact: I play Counter-Strike: Global Offensive
@@ -22,6 +20,7 @@
   <img align="center" alt="eidisato-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="eidisato-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="eidisato-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="eidisato-pic" height="150" style="border-radius:50px;"src="https://cdn.discordapp.com/attachments/757826115212673077/936001006075015168/zoro.gif">
 </div>
   
   ##
