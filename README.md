@@ -1,5 +1,5 @@
 ### Hello World 👋!
-
+<div style="display: inline_block"><br>
 - 📫 How to reach me: contato.viniciuseidisato@gmail.com
 - 😄 Pronouns: Ele/He
 - ⚡ Fun fact: The nine mountains and eight seas...There's nothing I can't CODE! 
