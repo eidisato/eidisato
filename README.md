@@ -3,10 +3,10 @@
 - 📫 How to reach me: contato.viniciuseidisato@gmail.com
 - ⚡ Fun fact: The nine mountains and eight seas...There's nothing I can't CODE! (paraphrasing Roronoa Zoro)
 
-<div align="justify">
+<div align="center">
   <a href="https://github.com/eidisato">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eidisato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eidisato&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eidisato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eidisato&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
  <div style="display: inline_block"><br>
