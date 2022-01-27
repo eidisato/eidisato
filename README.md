@@ -1,11 +1,9 @@
 ### Hello World 👋!
-
-- 📫 How to reach me: contato.viniciuseidisato@gmail.com
 - 😄 Pronouns: Ele/He
+- 📫 How to reach me: contato.viniciuseidisato@gmail.com
 - ⚡ Fun fact: The nine mountains and eight seas...There's nothing I can't CODE! 
-
+<div style="display: inline_block"><br>
 <img align="right" alt="eidisato-pic" height="150" style="border-radius:50px;"src="https://cdn.discordapp.com/attachments/705373342395400242/936381848014184509/ZORO_1.gif">
-
 ## 
 
 <div align="justify">
