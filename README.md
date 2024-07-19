@@ -1,7 +1,6 @@
 ### Hello World 👋!
-- 😄 Pronouns: Ele/He
 - 📫 How to reach me: contato.viniciuseidisato@gmail.com
-- ⚡ Fun fact: The nine mountains and eight seas...There's nothing I can't CODE! (paraphrasing Roronoa Zoro)
+- 😄  Fun fact: The nine mountains and eight seas...There's nothing I can't CODE! (paraphrasing Roronoa Zoro)
 
 <div align="center">
   <a href="https://github.com/eidisato">
